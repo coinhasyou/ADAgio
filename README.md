@@ -1,2 +1,2 @@
 # ADAgio
-ADAgio - Mobile Cardano Wallet App
+ADAgio - Mobile Cardano (ADA) Wallet App
